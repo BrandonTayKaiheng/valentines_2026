@@ -6,6 +6,9 @@ body {
     align-items: center;
     /* background-image: url("heart-bg.jpg"); */
     background-image: url("beach_bg.jpg");
+    background-size: cover;
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents tiling */
     font-family: "Pixelify Sans", sans-serif;
 }
 
